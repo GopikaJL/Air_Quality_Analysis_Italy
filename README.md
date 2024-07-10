@@ -10,3 +10,5 @@ Air pollution is a threatening scenario for the planet. We have been analyzing w
  - [Dataset ](https://archive.ics.uci.edu/dataset/360/air+quality)
 
 
+## Language
+Python
